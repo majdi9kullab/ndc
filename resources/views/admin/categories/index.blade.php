@@ -1,6 +1,6 @@
 @extends("admin.layout.app")
 
-@section("title","Categories")
+@section("title","Majdi Kullab")
 
 
 @section("content")
